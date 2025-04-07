@@ -1,4 +1,4 @@
-# Project Name: Part of the Methods Code from Article Evidence for preferred propagating terrestrial heatwave pathways due to Rossby wave activity
+# Project Name: Methods Code for Article:  Evidence for preferred propagating terrestrial heatwave pathways due to Rossby wave activity
 
 This document contains part of the methods code and their descriptions for demonstration and reference purposes.
 
